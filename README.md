@@ -1,5 +1,5 @@
 # Real-Time Streaming of CDC Data from MySql to Apache Iceberg using Flink
-![Project Logo]([https://github.com/yourusername/yourrepository/images/logo.png](https://github.com/pranav1699/flink-iceberg-minio-trino/blob/master/demo.png))
+![Project Logo] (https://github.com/pranav1699/flink-iceberg-minio-trino/blob/master/demo.png)
 
 ## Overview
 
