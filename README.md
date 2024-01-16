@@ -32,4 +32,5 @@ The purpose of this repository is to provide a comprehensive example of setting 
     ```bash
     docker-compose up -d
     ```
-
+## Next Steps
+Read this blog : https://medium.com/dev-genius/streaming-cdc-data-from-mysql-to-apache-iceberg-with-hive-metastore-using-apache-flink-0de9738fba0d
